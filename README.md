@@ -11,3 +11,5 @@ Since I could not find the raw data of "Associations by Provinces and Fields of 
 - The data was taken on 23.02.2025 and 100% up-to-dateness is not guaranteed.
 - The data includes the parameters "Province, activity category, sub-activity category, institution name, website address, institution (registered headquarters) address, telephone number and registry number".
 - This study was conducted for the purpose of easy access to the relevant data.
+
+**Kaynak/Source:** https://www.siviltoplum.gov.tr/illere-ve-faaliyet-alanlarina-gore-dernekler
